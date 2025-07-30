@@ -1,69 +1,100 @@
-<h1 align="center">Hi 👋, I'm Kshiteej Dubey</h1>
-<h3 align="center">A Passionate Software Engineer 🚀</h3>
+<h1 align="center">Kshiteej Dubey</h1>
+<p align="center" style="font-size: 16px; font-weight: 600; color: #4A5568;">
+  Software Engineer (MERN/Java/Spring Boot) | 1.5+ years’ experience in scalable web & backend
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40F99B&vCenter=true&width=435&lines=Full-stack+Engineer;MERN+Stack+%F0%9F%A4%97;Java+%7C+Spring+Boot+%F0%9F%92%BB;Open+Source+Contributor;%F0%9F%92%BB+Building+Awesome+Things" />
+  📍 Noida Sector 63, Uttar Pradesh<br/>
+  📧 <a href="mailto:kddubey8770@gmail.com">kddubey8770@gmail.com</a> &nbsp;|&nbsp;
+  📞 <a href="tel:+916387982178">+91-6387982178</a><br/>
+  🔗 <a href="https://linkedin.com/in/kshiteej-dubey" target="_blank">linkedin.com/in/kshiteej-dubey</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Kshiteejdubey" target="_blank">github.com/Kshiteejdubey</a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
-
-- 💡 I’m a passionate **Software Engineer** from India.
-- 🌱 Currently focused on **MERN Stack**, **Java**, **Spring Boot** and exploring new technologies.
-- 🤝 I love collaborating on open source and building scalable web apps.
-- 🎯 My goal: **Elegant solutions for real-world problems!**
-- 📫 How to reach me: [kshiteejdubey@email.com](mailto:kshiteejdubey@email.com)
+## Professional Summary
+Detail-oriented software engineer well-versed in MERN stack, Java, and Spring Boot.  
+Adept at building robust RESTful APIs, secure authentication, and full-stack web applications.  
+Proven track record in fast-paced engineering teams (ENS Enterprises, Chetu).  
+Passion for scalable code, backend logic, best practices, and team collaboration.
 
 ---
 
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-161B22?logo=react&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-222?logo=express&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![and more...](https://img.shields.io/badge/-and%20more-yellow?style=for-the-badge)
-
----
-
-## 🚀 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshiteejdubey&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshiteejdubey&theme=radical" height="160"/>
-</p>
+## Technical Skills
+<ul style="list-style:none; padding-left: 0; display:flex; flex-wrap: wrap; gap: 10px;">
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">Java (Core & Spring Boot)</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">JavaScript/ES6+</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">React.js</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">Node.js/Express.js</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">HTML/CSS</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">MongoDB</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">MySQL</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">API Design</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">JWT/Auth</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">Git & Github</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">MVC & System Design</li>
+  <li style="background: #ebf8ff; padding: 5px 12px; border-radius:5px; color:#034380; font-weight:600;">Agile & SDLC</li>
+</ul>
 
 ---
 
-## 📌 Pinned Projects
+## Professional Experience
 
-<!-- Replace below with links to your best repos -->
-[![Awesome Project 1](https://img.shields.io/badge/-Project1-black?style=flat-square)](https://github.com/kshiteejdubey/project1)
-[![Awesome Project 2](https://img.shields.io/badge/-Project2-black?style=flat-square)](https://github.com/kshiteejdubey/project2)
+### Associate Software Engineer — ENS Enterprises Pvt Ltd  
+*Jul 2023 – Present*  
+- Developed and maintained Shopify multi-vendor loyalty systems (RESTful API, RBAC, webhooks, real-time alerts).  
+- Improved security via JWT auth, data encryption, and robust user session management.  
+- Boosted API performance and reliability with parallel processing and scalable backend logic.
 
----
-
-## ✨ Fun Facts
-
-- 🧩 I love solving puzzles and logic games.
-- 📚 Lifelong learner — always up for new tech!
-- 🌏 Dreaming of building products that make a difference.
-
----
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kshiteejdubey)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat-square)](mailto:kshiteejdubey@email.com)
+### Software Engineer Intern — Chetu India Pvt Ltd  
+*Jan 2023 – Jun 2023*  
+- Supported development of modular MERN stack apps, focused on reusable React components and scalable APIs.  
+- Practiced agile, unit testing, and collaborated within a cross-functional tech team.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kshiteejdubey&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+## Projects
+
+### ATM Simulator System  
+*Java, Spring Boot, MySQL*  
+- Implemented core ATM operations (login, balance, transfer, withdrawal, deposit) using secure back-end logic.
+
+### Food Delivery App  
+*React.js, JavaScript, HTML/CSS*  
+- Built a dynamic food ordering platform with admin and user portals, focusing on performance and UX.
+
+---
+
+## Education
+
+**Bachelor of Technology – Computer Science & Engineering**  
+G.L. Bajaj Group of Institutions  
+*2020 – 2024* | CGPA: [Your CGPA]
+
+**Class XII (CBSE)**  
+Children Senior Secondary School  
+*2019 – 2020*
+
+**Class X (CBSE)**  
+Rahul International Public School  
+*2017 – 2018*
+
+---
+
+## Certifications
+
+- Java with System Design – Physics Wallah (2023)  
+- Web Development – Internshala (2022)  
+
+---
+
+## Soft Skills
+
+<ul style="list-style:none; padding-left:0; display:flex; flex-wrap: wrap; gap:12px;">
+  <li style="background:#f7fafc; padding:5px 12px; border-radius:6px; color:#2D3748; font-weight:600;">Problem Solving</li>
+  <li style="background:#f7fafc; padding:5px 12px; border-radius:6px; color:#2D3748; font-weight:600;">Time Management</li>
+  <li style="background:#f7fafc; padding:5px 12px; border-radius:6px; color:#2D3748; font-weight:600;">Leadership</li>
+  <li style="background:#f7fafc; padding:5px 12px; border-radius:6px; color:#2D3748; font-weight:600;">Public Speaking</li>
+  <li style="background:#f7fafc; padding:5px 12px; border-radius:6px; color:#2D3748; font-weight:600;">Teamwork</li>
+</ul>
