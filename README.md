@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-size: 16px;">
-  💻 <strong>Software Engineer</strong> &mdash; 1.5+ years’ experience in scalable web & backend<br>
+  💻 <strong>Software Engineer</strong> &mdash;with strong experience in scalable web & backend<br>
   🚀 MERN | Java | Spring Boot | <b>Passionate Coder</b>
 </p>
 
